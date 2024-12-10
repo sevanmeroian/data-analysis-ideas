@@ -1,8 +1,8 @@
-#Overview
+**Overview**
 
 This project involves the analysis of a dataset consisting of True News and Fake News articles. The goal is to extract insights, measure data quality, and visualize key findings to understand the nature of misinformation and credible news.
 
-#Objectives
+**Objectives**
 
 ##Visualize Key Findings: Use visualizations to highlight important insights from the data.
 
@@ -14,9 +14,9 @@ Understand Content Distribution: Compare characteristics such as subject breakdo
 
 Error Identification: Highlight logical inconsistencies or issues in the dataset.
 
-#Dataset
+**Dataset**
 
-##The dataset comprises two CSV files:
+The dataset comprises two CSV files:
 
 True_Reduced(in).csv: Contains articles labeled as True News.
 
