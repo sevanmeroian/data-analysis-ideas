@@ -4,7 +4,7 @@ This project involves the analysis of a dataset consisting of True News and Fake
 
 **Objectives**
 
-##Visualize Key Findings: Use visualizations to highlight important insights from the data.
+Visualize Key Findings: Use visualizations to highlight important insights from the data.
 
 Assess Data Quality: Identify missing or invalid data.
 
